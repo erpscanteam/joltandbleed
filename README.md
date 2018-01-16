@@ -25,3 +25,9 @@ RCLAYBURN:aeM9CuaXatohr1aixe9pohx4u
 SADAMS:Ohl0ac4Gaasilae4Nouzoheeh
 AJORDAN:peeW1bevoh7eitah1aucheegh
 DMANAGER:ohquaix6aipoa6Euy7shu5moH
+```
+# Links
+[Oracle Security Alert Advisory - CVE-2017-10269](http://www.oracle.com/technetwork/security-advisory/alert-cve-2017-10269-4021872.html)
+
+[PeopleSoft JOLTandBLEED Vulnerability](https://erpscan.com/press-center/blog/peoplesoft-joltandbleed/)
+
