@@ -6,7 +6,7 @@ $ pip install --user hexdump
 Don't test on productuion servers.
 
 # Info
-Tested on only on \*nix systems. 
+Tested only on \*nix systems. 
 ```
 $ psreleaseinfo
 ToolsRelease: 8.55
