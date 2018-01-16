@@ -1,3 +1,7 @@
+# Install
+```
+pip install --user hexdump
+```
 # WARNING
 Don't test on productuion servers.
 
