@@ -1,6 +1,6 @@
 # Install
 ```
-pip install --user hexdump
+$ pip install --user hexdump
 ```
 # WARNING
 Don't test on productuion servers.
